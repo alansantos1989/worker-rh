@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Worker RH Employer
 
 Sistema completo de Recrutamento e Seleção feito em Flask + Excel. Totalmente offline, com funcionalidades de cadastro, login, candidatura, gestão de vagas e currículos.
@@ -42,3 +43,6 @@ python start_flask.py
 - Navegador moderno
 
 Desenvolvido com ❤️ por Alan e IA.
+=======
+# worker-rh
+>>>>>>> 7c6e3c908371c46ad940ad3078c414e445ca132b
